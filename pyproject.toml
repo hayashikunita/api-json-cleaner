@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "api-json-cleaner"
-version = "0.1.0"
+version = "0.1.0.1"
 description = 'APIレスポンスの"汚い"JSONをキレイにして安全にパース・保存するためのPythonライブラリ'
 readme = "README.md"
 requires-python = ">=3.9"
