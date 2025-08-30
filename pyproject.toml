@@ -26,8 +26,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://example.com/"
-Repository = "https://example.com/"
+Homepage = "https://github.com/hayashikunita/api-json-cleaner"
+Repository = "https://github.com/hayashikunita/api-json-cleaner"
+Issues = "https://github.com/hayashikunita/api-json-cleaner/issues"
 
 [project.scripts]
 apijsonclean = "api_json_cleaner.cli:main"
